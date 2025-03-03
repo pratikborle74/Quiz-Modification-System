@@ -1,0 +1,11 @@
+topic,question,options,answer
+programming_concepts,Python is a ______ object-oriented programming language.,"['Special purpose', 'General purpose', 'Medium level programming language', 'All of the mentioned above']",General purpose
+programming_concepts,"Amongst the following, who is the developer of Python programming?","['Guido van Rossum', 'Denis Ritchie', 'Y.C. Khenderakar', 'None of the mentioned above']",Guido van Rossum
+programming_concepts,Amongst which of the following is / are the application areas of Python programming?,"['Web Development', 'Game Development', 'Artificial Intelligence and Machine Learning', 'All of the mentioned above']",All of the mentioned above
+programming_concepts,Amongst which of the following is / are the Numeric Types of Data Types?,"['int', 'float', 'complex', 'All of the mentioned above']",All of the mentioned above
+programming_concepts,"list, tuple, and range are the ______ of Data Types.","['Sequence Types', 'Binary Types', 'Boolean Types', 'None of the mentioned above']",Sequence Types
+programming_concepts,Float type of data type is represented by the float class.,"['True', 'False', ""Can't Say"", 'None of these']",True
+programming_concepts,"bytes, bytearray, memoryview are type of the ______ data type.","['Mapping Type', 'Boolean Type', 'Binary Types', 'None of the mentioned above']",Binary Types
+programming_concepts,Which of the following precedence order is correct in Python?,"['Parentheses, Exponential, Multiplication, Division, Addition, Subtraction', 'Multiplication, Division, Addition, Subtraction, Parentheses, Exponential', 'Division, Multiplication, Addition, Subtraction, Parentheses, Exponential', 'Exponential, Parentheses, Multiplication, Division, Addition, Subtraction']","Parentheses, Exponential, Multiplication, Division, Addition, Subtraction"
+programming_concepts,Which character is used in Python to make a single line comment?,"['/', '//', '!', '#']",#
+programming_concepts,In which language is Python written?,"['English', 'PHP', 'C', 'All of the above']",C
